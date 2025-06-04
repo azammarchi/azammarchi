@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 ### Who I am 🔎
-* 👨‍💻 An italian student, worker and athlete born in 2000
-* 💼 Sowftare Developer @onitsmart
+* 👨‍💻 An Italian student, worker and athlete born in 2000
+* 💼 Software Developer @onitsmart
 * 🎓 Master's Degree in Engineering and Computer Science @unibo
 * 🏐 Volleyball Player
 
